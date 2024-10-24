@@ -45,6 +45,11 @@ This project aims to analyze customer churn and provide actionable insights thro
      - DSL: 24.56%.
      - No Internet: 6.05%.
 
+## Insights for Stakeholders
+- **Retention Strategies**: Focus on customers with month-to-month contracts and those with a subscription period of less than a year.
+- **Improving Service Packages**: Consider offering special discounts or packages to customers using fiber optic services to reduce churn.
+- **Promote Paper Billing**: Analyze the potential impact of offering incentives for customers to opt out of paperless billing, as a significant percentage of churned customers use this option.
+
 ## Tools Used
 - **Power BI**: For data visualization and dashboard creation.
 - **Data Source**: Data extracted from a CSV file containing customer information.
