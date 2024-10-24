@@ -56,7 +56,7 @@ This project aims to analyze customer churn and provide actionable insights thro
 - **Excel**: For initial data cleaning and transformation.
 
 ## How to Use the Dashboard
-1. **Download** the Power BI file `Customer_churn_analysis_Dashboard.pbix` from this repository.
+1. **Download** the PowerBI file `Jaynil_MCT1_Customer_churn_analysis.pbix` from this repository.
 2. **Open** the file using **Power BI Desktop**.
 3. **Explore** the dashboard using interactive visualizations to understand customer churn patterns and insights.
 
